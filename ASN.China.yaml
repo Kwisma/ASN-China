@@ -1,5 +1,5 @@
 // 中国的 ASN 信息。 (https://github.com/Lycofuture/ASN-China)
-// 最后更新： CST 2025-01-29 00:11:19
+// 最后更新： CST 2025-01-30 00:11:46
 // 由 Lycofuture 制作，保留所有权利。
 
 payload:
@@ -23,8 +23,8 @@ payload:
   - IP-ASN,56048 // China Mobile Communicaitons Corporation
   - IP-ASN,133865 // Beijing IQIYI Science & Technology Co., Ltd.
   - IP-ASN,24400 // Shanghai Mobile Communications Co.,Ltd.
-  - IP-ASN,58879 // Shanghai ruisu network technology co.,LTD
   - IP-ASN,142111 // Zhejiang Aiyun Network Technology Co Ltd
+  - IP-ASN,58879 // Shanghai ruisu network technology co.,LTD
   - IP-ASN,139799 // Beijing Dajia Internet Information Technology Co., Ltd.
   - IP-ASN,7497 // CNIC-CAS
   - IP-ASN,146762 // NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT
@@ -543,6 +543,7 @@ payload:
   - IP-ASN,215786 // Peng Wang
   - IP-ASN,214704 // Xin Zhao
   - IP-ASN,214053 // Xiamen Huikuai Network Technology Co., Ltd.
+  - IP-ASN,213519 // HANG YANG
   - IP-ASN,211843 // Nanjing Tiankai Information Technology Co.Ltd.
   - IP-ASN,211051 // Dazhong Technology Network Studio of Tieling County
   - IP-ASN,209574 // Xiao Tan
@@ -772,7 +773,6 @@ payload:
   - IP-ASN,200021 // Tianhong Peng
   - IP-ASN,199932 // Tianle Shi
   - IP-ASN,199832 // QUN LIN
-  - IP-ASN,199691 // Zhile Gong
   - IP-ASN,199436 // BangLong Yang
   - IP-ASN,199392 // SHIZHENG NIE
   - IP-ASN,199304 // Bingwu Zhang
