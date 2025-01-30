@@ -1,5 +1,5 @@
 // 中国的 ASN 信息。 (https://github.com/Lycofuture/ASN-China)
-// 最后更新： CST 2025-01-30 00:11:46
+// 最后更新： CST 2025-01-31 00:11:14
 // 由 Lycofuture 制作，保留所有权利。
 
 payload:
@@ -23,8 +23,8 @@ payload:
   - IP-ASN,56048 // China Mobile Communicaitons Corporation
   - IP-ASN,133865 // Beijing IQIYI Science & Technology Co., Ltd.
   - IP-ASN,24400 // Shanghai Mobile Communications Co.,Ltd.
-  - IP-ASN,142111 // Zhejiang Aiyun Network Technology Co Ltd
   - IP-ASN,58879 // Shanghai ruisu network technology co.,LTD
+  - IP-ASN,142111 // Zhejiang Aiyun Network Technology Co Ltd
   - IP-ASN,139799 // Beijing Dajia Internet Information Technology Co., Ltd.
   - IP-ASN,7497 // CNIC-CAS
   - IP-ASN,146762 // NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT
@@ -44,8 +44,8 @@ payload:
   - IP-ASN,137718 // Beijing Volcano Engine Technology Co., Ltd.
   - IP-ASN,55990 // Huawei Cloud Service data center
   - IP-ASN,140633 // BILIBILI HK LIMITED
-  - IP-ASN,9384 // MIKU NETWORK LIMITED
   - IP-ASN,55996 // CYPRESS TELECOM (CHINA) LIMITED
+  - IP-ASN,9384 // MIKU NETWORK LIMITED
   - IP-ASN,24490 // Trans-Eurasia Information Network (TEIN2) - SG
   - IP-ASN,135426 // ZTE Corporation
   - IP-ASN,10212 // China Enterprise ICT Solutions Limited
@@ -166,6 +166,7 @@ payload:
   - IP-ASN,135061 // China Unicom Guangdong IP network
   - IP-ASN,134773 // CHINANET Guangdong province Guangzhou MAN network
   - IP-ASN,134542 // China Unicom IP network
+  - IP-ASN,131578 // Beijing Foreign Studies University
   - IP-ASN,131574 // Beijing Haiyu Technology Co. Ltd..
   - IP-ASN,131486 // Beijing Jingdong 360 Degree E-commerce Co., Ltd.
   - IP-ASN,9939 // DYXNET of Shenzhen Communication Co., Ltd.
@@ -266,7 +267,6 @@ payload:
   - IP-ASN,133774 // China Telecom Fujian Fuzhou IDC
   - IP-ASN,133475 // New York University
   - IP-ASN,132225 // CHINATELECOM QINGHAI 5G NETWORK
-  - IP-ASN,131578 // Beijing Foreign Studies University
   - IP-ASN,131558 // Wal-mart (China) Investment Co., Ltd.
   - IP-ASN,131519 // Hisense
   - IP-ASN,131285 // CHINATELECOM Hubei province Shengji 5G network
@@ -320,6 +320,7 @@ payload:
   - IP-ASN,23851 // CHONGQING CNC BROADBAND NETWORKS CO.,LTD
   - IP-ASN,23842 // Shenzhen Information and Network Center
   - IP-ASN,23839 // 76 # Oil Street of LiaoHe Oilfield, PanJin, LiaoNing
+  - IP-ASN,213519 // HANG YANG
   - IP-ASN,212371 // Huizhou HuiGu CloudTech Co., Ltd.
   - IP-ASN,210041 // Licheng MAO
   - IP-ASN,209306 // Jin Shaohai
@@ -543,7 +544,6 @@ payload:
   - IP-ASN,215786 // Peng Wang
   - IP-ASN,214704 // Xin Zhao
   - IP-ASN,214053 // Xiamen Huikuai Network Technology Co., Ltd.
-  - IP-ASN,213519 // HANG YANG
   - IP-ASN,211843 // Nanjing Tiankai Information Technology Co.Ltd.
   - IP-ASN,211051 // Dazhong Technology Network Studio of Tieling County
   - IP-ASN,209574 // Xiao Tan
