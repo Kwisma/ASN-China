@@ -1,5 +1,5 @@
 // 中国的 ASN 信息。 (https://github.com/Lycofuture/ASN-China)
-// 最后更新： CST 2025-02-03 00:10:00
+// 最后更新： CST 2025-02-04 00:11:21
 // 由 Lycofuture 制作，保留所有权利。
 
 payload:
@@ -44,8 +44,8 @@ payload:
   - IP-ASN,137718 // Beijing Volcano Engine Technology Co., Ltd.
   - IP-ASN,55990 // Huawei Cloud Service data center
   - IP-ASN,140633 // BILIBILI HK LIMITED
-  - IP-ASN,55996 // CYPRESS TELECOM (CHINA) LIMITED
   - IP-ASN,9384 // MIKU NETWORK LIMITED
+  - IP-ASN,55996 // CYPRESS TELECOM (CHINA) LIMITED
   - IP-ASN,24490 // Trans-Eurasia Information Network (TEIN2) - SG
   - IP-ASN,135426 // ZTE Corporation
   - IP-ASN,10212 // China Enterprise ICT Solutions Limited
@@ -778,6 +778,7 @@ payload:
   - IP-ASN,199392 // SHIZHENG NIE
   - IP-ASN,199304 // Bingwu Zhang
   - IP-ASN,198527 // Haolin Li
+  - IP-ASN,198516 // Yi Huang
   - IP-ASN,198266 // Yunrui Gu
   - IP-ASN,198025 // Yucheng Zhu
   - IP-ASN,197626 // XU ZIYAO
