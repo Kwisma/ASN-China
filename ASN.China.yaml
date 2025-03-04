@@ -1,5 +1,5 @@
 // 中国的 ASN 信息。 (https://github.com/Lycofuture/ASN-China)
-// 最后更新： CST 2025-03-04 00:12:38
+// 最后更新： CST 2025-03-05 00:12:11
 // 由 Lycofuture 制作，保留所有权利。
 
 payload:
@@ -41,9 +41,9 @@ payload:
   - IP-ASN,137897 // PAN-LIAN TECHNOLOGY CO., LIMITED
   - IP-ASN,4811 // China Telecom (Group)
   - IP-ASN,45090 // Shenzhen Tencent Computer Systems Company Limited
+  - IP-ASN,212793 // Xiwei Ye
   - IP-ASN,140633 // BILIBILI HK LIMITED
   - IP-ASN,55990 // Huawei Cloud Service data center
-  - IP-ASN,212793 // Xiwei Ye
   - IP-ASN,135426 // ZTE Corporation
   - IP-ASN,9384 // MIKU NETWORK LIMITED
   - IP-ASN,24490 // Trans-Eurasia Information Network (TEIN2) - SG
@@ -85,6 +85,7 @@ payload:
   - IP-ASN,140726 // UNICOM AnHui province network
   - IP-ASN,138421 // China Unicom
   - IP-ASN,136237 // Shanghai Shuangyu Communication Technology co.,Ltd.
+  - IP-ASN,9812 // Oriental Cable Network Co., Ltd.
   - IP-ASN,9809 // SHENZHEN NOVA TECHNOLOGIES DEVELOPMENT.,LTD.
   - IP-ASN,63646 // Beijing Xiaoju Science and Technology Co., Ltd.
   - IP-ASN,63641 // Mega Vantage Information Consulting Co., Ltd.
@@ -110,11 +111,9 @@ payload:
   - IP-ASN,139721 // HeFei
   - IP-ASN,139148 // China UnionPay Co., Ltd
   - IP-ASN,138950 // Jiangsu Wuxi International IDC network
-  - IP-ASN,138538 // VPSOR-GLOBAL
   - IP-ASN,137735 // China Construction Bank
   - IP-ASN,133219 // NewMedia Express Pte Ltd
   - IP-ASN,133119 // China Unicom IP network
-  - IP-ASN,9812 // Oriental Cable Network Co., Ltd.
   - IP-ASN,9394 // China TieTong Telecommunications Corporation
   - IP-ASN,63617 // McKinsey & Consulting Company Inc. Shanghai
   - IP-ASN,59083 // Shanghai Kuanhui Tech. Co.,ltd
@@ -146,6 +145,7 @@ payload:
   - IP-ASN,17429 // BEIJING GEHUA CATV NETWORK CO.LTD
   - IP-ASN,17428 // 21Vianet.Co.,Ltd
   - IP-ASN,152711 // Suike Information Technology SiChuan Co., Ltd
+  - IP-ASN,138538 // VPSOR-GLOBAL
   - IP-ASN,137801 // AIPO Cloud (Guizhou) Technology Co., Ltd.
   - IP-ASN,137746 // China Internet Network Information Center
   - IP-ASN,136198 // CHINANET Guangdong province Yuexi MAN network
@@ -771,6 +771,7 @@ payload:
   - IP-ASN,197626 // XU ZIYAO
   - IP-ASN,197433 // XuanMing Liu
   - IP-ASN,18257 // ChangZhou Bitcomm Software Technology Co., Limited
+  - IP-ASN,153633 // KVQNET
   - IP-ASN,153458 // Haruzakura Cloud
   - IP-ASN,153376 // Jilin Province Brick Business Service Limited
   - IP-ASN,153333 // Fu Jiechun
@@ -858,7 +859,6 @@ payload:
   - IP-ASN,150184 // Chen Chi
   - IP-ASN,150141 // Wang Jiacheng
   - IP-ASN,149510 // Feng Libo
-  - IP-ASN,149292 // Shanghai YanFu Technology Co Ltd
   - IP-ASN,149163 // Yichang Shuangsen Network Technology Ltd
   - IP-ASN,146816 // Guizhou Moutai Winery (Group) Co., Ltd.
   - IP-ASN,146804 // China Internet Network Information Center
@@ -4963,9 +4963,7 @@ payload:
   - IP-ASN,142553 // Airs Project Private Network Main
   - IP-ASN,142438 // Kasumi Networks Inc
   - IP-ASN,142418 // TaterLi Education And Research Network
-  - IP-ASN,142280 // NaiveTomcat Education and Research Experimental Network Backbone
   - IP-ASN,142164 // GoldDoge Computer Technologies & Networks Information Center
-  - IP-ASN,142112 // Star Horizon Tech Inc
   - IP-ASN,142106 // China Education and Research Network (CERNET)
   - IP-ASN,142105 // China Education and Research Network (CERNET)
   - IP-ASN,142104 // China Education and Research Network (CERNET)
@@ -5203,7 +5201,6 @@ payload:
   - IP-ASN,136591 // MxxCloud LLC
   - IP-ASN,136535 // Yang Mengqi
   - IP-ASN,135120 // Sin Zhang Ching Industry Sdn. Bhd.
-  - IP-ASN,134993 // iLemonrain Network
   - IP-ASN,134775 // CHINANET Guangdong province Zhusanjiao MAN network
   - IP-ASN,134708 // TLY NETWORKS S.A.
   - IP-ASN,134488 // CTJs Global Network
